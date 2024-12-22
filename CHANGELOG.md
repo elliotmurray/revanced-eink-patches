@@ -1,3 +1,10 @@
+# 1.0.0 (2024-12-22)
+
+
+### Bug Fixes
+
+* **setup:** Initial setup ([92ea628](https://github.com/elliotmurray/revanced-eink-patches/commit/92ea628cb9e0ec9b9a09dd2a8260eb1aceaae6f8))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
